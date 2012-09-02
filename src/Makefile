@@ -1,4 +1,4 @@
-CFLAGS=-g -O2 -I/usr/include/db4.8
+CFLAGS=-g -O2
 
 all: cluebotng create_ann create_bayes_db print_bayes_db
 
